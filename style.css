@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    background-color: black;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 1px;
+    border-color: green;
+}
