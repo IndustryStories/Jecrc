@@ -12,3 +12,12 @@ for i in list:
 print("integer values:",list1);
 print("string value:",list2);
 print("float value:",list3);
+def greet():
+    print("welcome to gfg")
+def sum(*number):
+     result=0;
+     for num in number:
+      result+=num;
+     return num;
+     
+print(sum(10,20,30))
